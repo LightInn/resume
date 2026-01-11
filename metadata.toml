@@ -88,12 +88,12 @@ language = "en"
     letter_footer = "Anschreiben"
 
 [lang.en]
-    header_quote = "Full-Stack Developer & DevOps Engineer - Specialized in Web3, SaaS, and Decentralized Systems"
+    header_quote = "Full-Stack Developer & DevOps Engineer - Specialized in SaaS, Web app and Decentralized Systems"
     cv_footer = "Curriculum vitae"
     letter_footer = "Cover letter"
 
 [lang.fr]
-    header_quote = "Développeur Full-Stack & Ingénieur DevOps - Spécialisé en Web3, SaaS et Systèmes Décentralisés"
+    header_quote = "Développeur Full-Stack & Ingénieur DevOps - Spécialisé en SaaS, Web app et Systèmes Décentralisés"
     cv_footer = "Curriculum vitae"
     letter_footer = "Lettre de motivation"
 
